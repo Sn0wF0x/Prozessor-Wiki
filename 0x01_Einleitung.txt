@@ -1,0 +1,14 @@
+Reden wir einmal über Prozessoren.
+Eine CPU (Central Processing Unit) ist das Zentral Element eines jeden Computers.
+Sein Gehirn wenn man so will.
+
+Funktioniert die CPU nicht, funktioniert der Computer nicht.
+
+FÜr die Programmierung eines Betriebssystems benötigen wir einige Fundamentale Wissenseigenschaften üer Prozessoren
+Der Übersicht halber werde ich das Thema in Mehrer kleine Txt Dateien unterteilen.
+
+0x01 Ist die Einleitung
+0x02 Wird sich um die Architektur drehen (Von Neumann Architektur)
+0x03 Wird sich um Register und die Funktionsweise drehen
+0x04 Wrd sich um Kennwerte drehen
+0x05 TBA
