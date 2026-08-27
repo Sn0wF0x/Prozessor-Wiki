@@ -1,1 +1,20 @@
 Register sind das Herzstück unserer Reise. 
+
+Register gibt es in 16, 32 sowie 64 Bit. 
+Der Aufbau vom namen deutet oft darauf hin für was sie eigentlich stehen
+Folgende Register gibt es:
+
+
+
+16 Bit      Aufbau 
+
+A X
+
+32 Bit      Aufbau
+
+E A X
+
+64 Bit      Aufbau 
+
+
+R A X
