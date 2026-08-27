@@ -1,1 +1,4 @@
-Architektur
+Unter der Architektur versteht man mehr oder weniger den Aufbau moderner Prozessoren.
+
+Im Aktuellen Gebrauch wäre das die "Von Neumann Architektur"
+
