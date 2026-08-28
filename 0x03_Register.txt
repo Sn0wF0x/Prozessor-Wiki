@@ -1,20 +1,38 @@
 Register sind das Herzstück unserer Reise. 
 
-Register gibt es in 16, 32 sowie 64 Bit. 
-Der Aufbau vom namen deutet oft darauf hin für was sie eigentlich stehen
-Folgende Register gibt es:
+Sie sitzen auf dem Prozessor und sind extrem schnelle winzige Speicherplätze
 
+Register gibt es in 16, 32 sowie 64 Bit. 
+
+Der Aufbau vom namen deutet oft darauf hin für was sie eigentlich stehen
+
+Es gibt:
+
+*General Register
+** Data Register
+** Pointer Register
+** Index Register
+
+*Segment Register
+** im 32 Bit Modus steuern die Segment Register den Zugriffsschutz und die Segmentierung
+** im 64 Bit Modus ist die Segmentierung fast komplett abgeschafft
+
+*Control Register 
+
+Der Name der Register ist eigentlich ganz einfach zu verstehen:
 
 
 16 Bit      Aufbau 
 
 A X
 
-32 Bit      Aufbau
+32 Bit Aufbau (Beispiel):
 
 E A X
 
-64 Bit      Aufbau 
 
+
+
+64 Bit Aufbau (Beispiel): 
 
 R A X
