@@ -17,7 +17,7 @@ Es gibt:
 ** im 32 Bit Modus steuern die Segment Register den Zugriffsschutz und die Segmentierung
 ** im 64 Bit Modus ist die Segmentierung fast komplett abgeschafft
 
-* Control Register 
+*  Control Register 
 
 Der Name der Register ist eigentlich ganz einfach zu verstehen:
 
